@@ -8,7 +8,6 @@
 
 
 
-# Application Examples
 Przykładowe etykietowane zdjęcia z bazy danych wybrane losowo
 
 ![Alt text](https://github.com/tobiaszmateusz/NNinfraredimage/blob/main/photos/1.png "Przykładowe etykietowane zdjęcia z bazy danych wybrane losowo")

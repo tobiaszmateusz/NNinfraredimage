@@ -1,5 +1,6 @@
 # NNinfraredimage - README IN PROGRESS
  ![Alt text](https://github.com/tobiaszmateusz/NNinfraredimage/blob/main/photos/8.png "Moduł U-Net")
+ 
  Mający za zadanie zwrócić "cień" punktów charakterystycznych, do przekazania do nauki, do drugiego modułu sieci nauronowej zwracającego już punkty.
  ![Alt text](https://github.com/tobiaszmateusz/NNinfraredimage/blob/main/photos/7.png "Dodatkowy moduł sieci neuronowej")
 
